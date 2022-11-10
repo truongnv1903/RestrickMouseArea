@@ -1,0 +1,4 @@
+*txt.user*
+*.txt.user
+build/*
+build/RestrickMousePos
